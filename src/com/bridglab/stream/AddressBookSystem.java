@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 /**
  * Purpose - To add multiple contacts an Address Book System
- * @author ASHISH SAHU
+ * @author Avinash S
  *
  */
 
