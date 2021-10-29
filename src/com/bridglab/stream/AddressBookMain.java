@@ -6,7 +6,7 @@ import java.util.HashMap;
 
 /**
  * Purpose - To ensure that there is no duplicate entry
- * @author - ASHISH SAHU
+ * @author - Avinash S
  */
 
 public class AddressBookMain {
