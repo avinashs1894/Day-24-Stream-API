@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * Purpose - To delete the contacts an Address Book System
- * @author ASHISH SAHU
+ * @author Avinash S
  *
  */
 public class AddressBookSystem {
